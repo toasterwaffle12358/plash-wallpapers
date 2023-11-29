@@ -9,5 +9,7 @@ you can find plash [here](https://github.com/sindresorhus/Plash).
 ![desert cube](https://raw.githubusercontent.com/toasterwaffle12358/plash-wallpapers/main/cube%20render/fractaldesert(1).png)
 ## blahaj
 ![blahaj](https://raw.githubusercontent.com/toasterwaffle12358/plash-wallpapers/main/blahaj/blahaj_02.jpg)
+## blue fractal
+![blahaj](https://raw.githubusercontent.com/toasterwaffle12358/plash-wallpapers/main/blue%20fractal/bluefractal.png)
 
 more coming soon!
